@@ -35,9 +35,3 @@ Key Features:
 
 ----------------------
 
-## Technologies Used
-
-•⁠  ⁠Python (BeautifulSoup, Pandas, Matplotlib, Seaborn, Regex)
-•⁠  ⁠SQL (MySQL or SQLite)
-•⁠  ⁠Jupyter Notebook
-•⁠  ⁠VS Code 
